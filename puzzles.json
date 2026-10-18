@@ -328,5 +328,203 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 6,
+    "date": "2026-10-23",
+    "anchor": {
+      "name": "A. J. Liebling",
+      "description": "American journalist (1904–1963)",
+      "birth": 1904,
+      "death": 1963
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Félicette, a black and white female Parisian stray cat, becomes the first cat launched into space.",
+        "year": 1963,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "World War II: Soviet Union begins the liberation of Czechoslovakia from Nazi Germany.",
+        "year": 1944,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "World War II: The state funeral of Field Marshal Erwin Rommel takes place in Ulm, Germany.",
+        "year": 1944,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "First Balkan War: King Peter I of Serbia issues a declaration \"To the Serbian People\", as his country joins the war.",
+        "year": 1912,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Texas Instruments announces the Regency TR-1, the first mass-produced transistor radio.",
+        "year": 1954,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Count Bernhard von Bülow becomes chancellor of Germany.",
+        "year": 1900,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Johannes Brahms conducts the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann.",
+        "year": 1887,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union.",
+        "year": 1991,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Merpati Nustantara Airlines Flight 5601 crashes into Mount Papandayan near the town of Garut in West Java, Indonesia, killing 31.",
+        "year": 1992,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "date": "2026-10-24",
+    "anchor": {
+      "name": "Arie de Jong",
+      "description": "Dutch linguist and author",
+      "birth": 1865,
+      "death": 1957
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Argentine military officer and politician Juan Perón marries actress Eva Duarte.",
+        "year": 1945,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Crimean Autonomous Soviet Socialist Republic is formed as part of the Russian Soviet Federative Socialist Republic.",
+        "year": 1921,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Count Bernhard von Bülow becomes chancellor of Germany.",
+        "year": 1900,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "The USSR's nuclear program receives plans for the United States plutonium bomb from Klaus Fuchs at the Los Alamos National Laboratory.",
+        "year": 1945,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The United States takes possession of Puerto Rico from Spain.",
+        "year": 1898,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "The Second Opium War finally ends at the Convention of Peking with the ratification of the Treaty of Tientsin, an unequal treaty.",
+        "year": 1860,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Herman Melville's Moby-Dick is first published as The Whale by Richard Bentley of London.",
+        "year": 1851,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Based on the world's first children's art museum, the Henrik Igityan National Centre for Aesthetics opens in Yerevan.",
+        "year": 1978,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Soviet probe Venera 4 reaches Venus and becomes the first spacecraft to measure the atmosphere of another planet.",
+        "year": 1967,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "date": "2026-10-25",
+    "anchor": {
+      "name": "Beatrice Worsley",
+      "description": "First female computer scientist in Canada",
+      "birth": 1921,
+      "death": 1972
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The USSR's nuclear program receives plans for the United States plutonium bomb from Klaus Fuchs at the Los Alamos National Laboratory.",
+        "year": 1945,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Soviet probe Venera 4 reaches Venus and becomes the first spacecraft to measure the atmosphere of another planet.",
+        "year": 1967,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "World War II: The state funeral of Field Marshal Erwin Rommel takes place in Ulm, Germany.",
+        "year": 1944,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "World War II: Soviet Union begins the liberation of Czechoslovakia from Nazi Germany.",
+        "year": 1944,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Félicette, a black and white female Parisian stray cat, becomes the first cat launched into space.",
+        "year": 1963,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "The United States takes possession of Puerto Rico from Spain.",
+        "year": 1898,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "First Balkan War: King Peter I of Serbia issues a declaration \"To the Serbian People\", as his country joins the war.",
+        "year": 1912,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The Federal Communications Commission (FCC) begins allowing people to have home satellite earth stations without a federal government license.",
+        "year": 1979,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union.",
+        "year": 1991,
+        "overlaps": false
+      }
+    ]
   }
 ]
