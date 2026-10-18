@@ -1,34 +1,59 @@
-name: Generate Daily Puzzles
+name: Auto Generate Puzzles and Deploy Site
 
 on:
+  push:
+    branches: [ main ]
   schedule:
-    # Esegue lo script automaticamente ogni notte alle 02:00 UTC
-    - cron: '0 2 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch:
-    # Permette di avviare lo script anche manualmente con un bottone da GitHub
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  update-puzzles:
+  update-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-
     steps:
-      - name: Scarica il codice del repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Configura Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Esegui il generatore di puzzle
+      - name: Generate future puzzles if needed
         run: python3 generate_puzzles.py
 
-      - name: Salva e pubblica eventuale nuovo puzzles.json
+      - name: Commit and push updated puzzles.json
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add puzzles.json
-          git diff --staged --quiet || (git commit -m "Auto-update daily puzzles" && git push)
+          if git diff --staged --quiet; then
+            echo "Buffer already full. No commit needed."
+          else
+            git commit -m "chore: auto-generate new daily puzzles"
+            git push
+          fi
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload static site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
