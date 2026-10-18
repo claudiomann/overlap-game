@@ -370,3 +370,41 @@ body {
 .hidden {
   display: none;
 }
+
+.monetization-slot {
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.coffee-link {
+  display: block;
+  background-color: var(--bg-color);
+  color: var(--text-muted);
+  border: 1px solid var(--border-color);
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.coffee-link:hover {
+  border-color: var(--text-main);
+  color: var(--text-main);
+}
+
+.ad-slot {
+  min-height: 90px;
+  background-color: var(--bg-color);
+  border: 1px dashed var(--border-color);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+}

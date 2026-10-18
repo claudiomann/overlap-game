@@ -395,7 +395,8 @@ shareBtnEl.addEventListener('click', async () => {
     `OVERLAP #${currentPuzzle.id} (${currentPuzzle.date})`,
     `Subject: ${currentPuzzle.anchor.name}`,
     `Overlaps: ${foundCount}/${TARGET_OVERLAPS} | Lives: ${remainingLives}/${MAX_MISTAKES}`,
-    `Moves: ${clickHistory.join(' ')}`
+    `Moves: ${clickHistory.join(' ')}`,
+    `Play: https://claudiomann.github.io/overlap-game/`
   ];
   const shareText = shareLines.join('\n');
 
