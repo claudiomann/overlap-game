@@ -1,0 +1,34 @@
+name: Generate Daily Puzzles
+
+on:
+  schedule:
+    # Esegue lo script automaticamente ogni notte alle 02:00 UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    # Permette di avviare lo script anche manualmente con un bottone da GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-puzzles:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scarica il codice del repository
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Esegui il generatore di puzzle
+        run: python3 generate_puzzles.py
+
+      - name: Salva e pubblica eventuale nuovo puzzles.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add puzzles.json
+          git diff --staged --quiet || (git commit -m "Auto-update daily puzzles" && git push)

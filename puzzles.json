@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "date": "2026-10-18",
+    "anchor": {
+      "name": "Carl F. H. Henry",
+      "description": "American theologian (1913–2003)",
+      "birth": 1913,
+      "death": 2003
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "World War II: The liberation of Yugoslavia from Axis occupation continues. Bajina Bašta in western Serbia is among the liberated cities.",
+        "year": 1944,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "NASA launches Space Shuttle Discovery on STS-51.",
+        "year": 1993,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Sirimavo Bandaranaike is sworn in as prime minister of Ceylon, becoming the world's first democratically elected female head of government.",
+        "year": 1960,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "The United Kingdom recognizes Bahrain's independence, which is commemorated annually as Bahrain's National Day.",
+        "year": 1971,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The Holocaust: Schutzstaffel chief Heinrich Himmler orders that Roma candidates for extermination be deported to Auschwitz.",
+        "year": 1942,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Tonkin Campaign: French forces capture the Sơn Tây citadel.",
+        "year": 1883,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Norwegians vote to end the union with Sweden.",
+        "year": 1905,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "United Arab Emirates holds its first-ever elections.",
+        "year": 2006,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Erden Eruç completes the first solo human-powered circumnavigation of the world.",
+        "year": 2012,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2026-10-19",
+    "anchor": {
+      "name": "August Strindberg",
+      "description": "Swedish writer and painter (1849–1912)",
+      "birth": 1849,
+      "death": 1912
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "SS Valencia runs aground on rocks on Vancouver Island, British Columbia, killing more than 130.",
+        "year": 1906,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "William Gray of Hartford, Connecticut is granted United States Patent Number 408,709 for \"Coin-controlled apparatus for telephones.\"",
+        "year": 1889,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The passenger steamer SS Columbia sinks after colliding with the steam schooner San Pedro off Shelter Cove, California, killing 88 people.",
+        "year": 1907,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "A performance of Wagner's Das Rheingold opens the first Ring cycle at the first Bayreuth Festival.",
+        "year": 1876,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Norwegians vote to end the union with Sweden.",
+        "year": 1905,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Inauguration of Leopold I of Belgium, first king of the Belgians.",
+        "year": 1831,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Convention of London, a treaty between the United Kingdom and the United Netherlands, is signed in London, England.",
+        "year": 1814,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The Chicago Bears defeat the Portsmouth Spartans in the first NFL playoff game to win the NFL Championship.",
+        "year": 1932,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Holocaust: Schutzstaffel chief Heinrich Himmler orders that Roma candidates for extermination be deported to Auschwitz.",
+        "year": 1942,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "date": "2026-10-20",
+    "anchor": {
+      "name": "Ion Agârbiceanu",
+      "description": "Romanian writer and priest (1882–1963)",
+      "birth": 1882,
+      "death": 1963
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Bonanza, the first regularly scheduled TV program presented in color, is launched in the United States.",
+        "year": 1959,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "World War II: The liberation of Yugoslavia from Axis occupation continues. Bajina Bašta in western Serbia is among the liberated cities.",
+        "year": 1944,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The Holocaust: Schutzstaffel chief Heinrich Himmler orders that Roma candidates for extermination be deported to Auschwitz.",
+        "year": 1942,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "The Nutcracker by Pyotr Ilyich Tchaikovsky premiers in Saint Petersburg, Russia.",
+        "year": 1892,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "World War II: Australian and American forces defeat Japanese army and navy units in the bitterly fought Battle of Buna–Gona.",
+        "year": 1943,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Second Anglo-Sikh War: The Siege of Multan ends after nine months when the last Sikh defenders of Multan, Punjab, surrender.",
+        "year": 1849,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "A magnitude 7.0 earthquakes strikes off the coast of Taiwan, triggering a tsunami and killing at least 580 people.",
+        "year": 1867,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Third Taiwan Strait Crisis: The People's Liberation Army begins firing missiles into the waters north of Taiwan.",
+        "year": 1995,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Hurricane Gilbert devastates Jamaica; it turns towards Mexico's Yucatán Peninsula two days later, causing an estimated $5 billion in damage.",
+        "year": 1988,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2026-10-21",
+    "anchor": {
+      "name": "Bill Durnan",
+      "description": "Canadian ice hockey player (1916–1972)",
+      "birth": 1916,
+      "death": 1972
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "World War II: The liberation of Yugoslavia from Axis occupation continues. Bajina Bašta in western Serbia is among the liberated cities.",
+        "year": 1944,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Creation of the Central Intelligence Group, forerunner of the Central Intelligence Agency.",
+        "year": 1946,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The Soviet Union launches a large rocket, Lunik II, at the Moon.",
+        "year": 1959,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "NS Savannah, the first nuclear-powered cargo-passenger ship, is launched as a showcase for Dwight D. Eisenhower's \"Atoms for Peace\" initiative.",
+        "year": 1959,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "World War II: Australian and American forces defeat Japanese army and navy units in the bitterly fought Battle of Buna–Gona.",
+        "year": 1943,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Tonkin Campaign: French forces capture the Sơn Tây citadel.",
+        "year": 1883,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "World War I: Admiral Franz von Hipper commands a raid on Scarborough, Hartlepool and Whitby.",
+        "year": 1914,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "A Lockheed L-188 Electra crashes in Jamba, Cuando, Angola, killing 141 people.",
+        "year": 1995,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Typhoon Maemi, the strongest recorded typhoon to strike South Korea, made landfall near Busan.",
+        "year": 2003,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "date": "2026-10-22",
+    "anchor": {
+      "name": "Lonnie Brooks",
+      "description": "American blues singer and guitarist (1933–2017)",
+      "birth": 1933,
+      "death": 2017
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "NASA launches into orbit the Terra platform carrying five Earth Observation instruments, including ASTER, CERES, MISR, MODIS and MOPITT.",
+        "year": 1999,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "World War II: The liberation of Yugoslavia from Axis occupation continues. Bajina Bašta in western Serbia is among the liberated cities.",
+        "year": 1944,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "NASA launches Space Shuttle Discovery on STS-51.",
+        "year": 1993,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.",
+        "year": 2004,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Sirimavo Bandaranaike is sworn in as prime minister of Ceylon, becoming the world's first democratically elected female head of government.",
+        "year": 1960,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "SS Valencia runs aground on rocks on Vancouver Island, British Columbia, killing more than 130.",
+        "year": 1906,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Haiyuan earthquake of 8.5Mw rocks the Gansu province in China, killing an estimated 200,000.",
+        "year": 1920,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Israel–United Arab Emirates relations are formally established.",
+        "year": 2020,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Abundant Life Christian School shooting in Madison, Wisconsin, United States, takes place, resulting in the death of three people.",
+        "year": 2024,
+        "overlaps": false
+      }
+    ]
+  }
+]

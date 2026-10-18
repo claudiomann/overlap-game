@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OVERLAP - Daily Historical Coexistence Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="header-top">
+        <h1>OVERLAP</h1>
+        <span id="puzzle-badge" class="badge">Puzzle #1</span>
+      </div>
+      <p class="subtitle">Find the 5 events that happened during this person's lifetime</p>
+    </header>
+
+    <main>
+      <section class="card anchor-card">
+        <div class="section-header">
+          <span>TODAY'S SUBJECT</span>
+          <span id="anchor-lifespan" class="lifespan-tag">LIFESPAN: [ ???? - ???? ]</span>
+        </div>
+        <h2 id="anchor-name" class="anchor-name">Loading...</h2>
+        <p id="anchor-desc" class="anchor-desc"></p>
+
+        <div class="bounds-box">
+          <div class="bounds-title">DEDUCED TIMELINE CLUES</div>
+          <div id="bounds-text" class="bounds-text">Select an event card below to start narrowing down the timeline.</div>
+        </div>
+      </section>
+
+      <section class="status-bar">
+        <div class="status-item">
+          <span class="status-label">FOUND:</span>
+          <span id="found-counter" class="status-value">0 / 5</span>
+        </div>
+        <div class="status-item">
+          <span class="status-label">LIVES:</span>
+          <span id="lives-counter" class="status-value">3 / 3</span>
+        </div>
+      </section>
+
+      <section id="cards-grid" class="cards-grid"></section>
+
+      <section id="result-section" class="card result-card hidden">
+        <h2 id="result-title"></h2>
+        <p id="result-summary" class="result-summary"></p>
+
+        <div class="stats-grid">
+          <div class="stat-box">
+            <span id="stat-played" class="stat-num">0</span>
+            <span class="stat-label">Played</span>
+          </div>
+          <div class="stat-box">
+            <span id="stat-winrate" class="stat-num">0%</span>
+            <span class="stat-label">Win %</span>
+          </div>
+          <div class="stat-box">
+            <span id="stat-streak" class="stat-num">0</span>
+            <span class="stat-label">Streak</span>
+          </div>
+          <div class="stat-box">
+            <span id="stat-max" class="stat-num">0</span>
+            <span class="stat-label">Max Streak</span>
+          </div>
+        </div>
+
+        <button id="share-btn" class="share-btn">COPY RESULT TO CLIPBOARD</button>
+        <p id="share-feedback" class="share-feedback hidden">Result copied to clipboard.</p>
+
+        <div class="timeline-recap">
+          <div class="section-header">
+            <span>COMPLETE CHRONOLOGICAL TIMELINE</span>
+          </div>
+          <div id="timeline-list" class="timeline-list"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="dev-toolbar">
+      <span>DEV TEST BAR:</span>
+      <div id="dev-buttons" class="dev-buttons"></div>
+      <button id="reset-storage-btn" class="dev-btn danger">Reset Storage</button>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
