@@ -526,5 +526,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 9,
+    "date": "2026-10-26",
+    "anchor": {
+      "name": "Clarence Hudson White",
+      "description": "American photographer",
+      "birth": 1871,
+      "death": 1925
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "King Otto of Bavaria is deposed by his cousin, Prince Regent Ludwig, who assumes the title Ludwig III.",
+        "year": 1913,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "In Pollock v. Farmers' Loan & Trust Co. the Supreme Court of the United States declares unapportioned income tax to be unconstitutional.",
+        "year": 1895,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Women's suffrage in the United States: In defiance of the law, suffragist Susan B. Anthony votes for the first time, and is later fined $100.",
+        "year": 1872,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "World War I: France and the British Empire declare war on the Ottoman Empire.",
+        "year": 1914,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The Pendleton Civil Service Reform Act, establishing the United States Civil Service, is enacted by Congress.",
+        "year": 1883,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Westward expansion of the United States: John C. Frémont is appointed Governor of the new California Territory.",
+        "year": 1847,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The first Mormon pioneers make their exodus from Nauvoo, Illinois, westward towards Salt Lake Valley.",
+        "year": 1846,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "World War II: The British armed merchant cruiser HMS Jervis Bay is sunk by the German pocket battleship Admiral Scheer.",
+        "year": 1940,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "World War II: Santo Tomas Internment Camp is liberated from Japanese authority.",
+        "year": 1945,
+        "overlaps": false
+      }
+    ]
   }
 ]
