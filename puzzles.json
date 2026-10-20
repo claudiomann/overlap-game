@@ -592,5 +592,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 10,
+    "date": "2026-10-27",
+    "anchor": {
+      "name": "Paul Kane",
+      "description": "Canadian painter (1810–1871)",
+      "birth": 1810,
+      "death": 1871
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Future abolitionist Frederick Douglass escapes from slavery.",
+        "year": 1838,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Time zone: New Zealand officially adopts a standard time to be observed nationally.",
+        "year": 1868,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "American Civil War: Confederate General Leonidas Polk invades neutral Kentucky, prompting the state legislature to ask for Union assistance.",
+        "year": 1861,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "First ascent of Aletschhorn, second summit of the Bernese Alps.",
+        "year": 1859,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Konstantinos Kanaris blows up the Ottoman navy's flagship at Chios, killing the Kapudan Pasha Nasuhzade Ali Pasha.",
+        "year": 1822,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "American Revolutionary War: The British Army abandons Philadelphia.",
+        "year": 1778,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Joseph Whidbey leads an expedition to search for the Northwest Passage near Juneau, Alaska.",
+        "year": 1794,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Italian anarchist Michele Angiolillo assassinates Spanish Prime Minister Antonio Cánovas del Castillo.",
+        "year": 1897,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "North Dakota and South Dakota are admitted as the 39th and 40th U.S. states.",
+        "year": 1889,
+        "overlaps": false
+      }
+    ]
   }
 ]
