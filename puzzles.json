@@ -658,5 +658,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 11,
+    "date": "2026-10-28",
+    "anchor": {
+      "name": "Robin Roberts (baseball)",
+      "description": "American baseball player (1926–2010)",
+      "birth": 1926,
+      "death": 2010
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The Rome General Peace Accords end a 16-year civil war in Mozambique.",
+        "year": 1992,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "NASA's Phoenix lander touches down in the Green Valley region of Mars to search for environments suitable for water and microbial life.",
+        "year": 2008,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Hurricane Flora kills 6,000 in Cuba and Haiti.",
+        "year": 1963,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "The law on same-sex marriage comes into force in South Africa, legalizing same-sex marriage for the first time on the African continent.",
+        "year": 2006,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "SpaceShipOne wins the Ansari X Prize for private spaceflight.",
+        "year": 2004,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "The Doom Bar in Cornwall claims two ships, Island Maid and Angele, the latter killing the entire crew except the captain.",
+        "year": 1911,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "World War I: An explosion kills more than 100 people and destroys a Shell Loading Plant in New Jersey.",
+        "year": 1918,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Oprah Winfrey airs her last show, ending her 25-year run of The Oprah Winfrey Show.",
+        "year": 2011,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Prime Minister Modi of India inaugurates the 2nd Space Port of India - Kulasekarapattinam Spaceport.",
+        "year": 2024,
+        "overlaps": false
+      }
+    ]
   }
 ]
