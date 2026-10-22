@@ -724,5 +724,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 12,
+    "date": "2026-10-29",
+    "anchor": {
+      "name": "Werner Hartmann (physicist)",
+      "description": "German physicist",
+      "birth": 1912,
+      "death": 1988
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "A German officer is killed in Bucharest, Romania, sparking a rebellion and pogrom by the Iron Guard, killing 125 Jews and 30 soldiers.",
+        "year": 1941,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Federal People's Republic of Yugoslavia is declared.",
+        "year": 1945,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The Beatles' last public performance, on the roof of Apple Records in London. The impromptu concert is broken up by the police.",
+        "year": 1969,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "The Holocaust: In Berlin, the Gestapo arrest 1,800 Jewish men with German wives, leading to the Rosenstrasse protest.",
+        "year": 1943,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Chilean dictator Augusto Pinochet survives an assassination attempt by the FPMR; five of Pinochet's bodyguards are killed.",
+        "year": 1986,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "The United States takes possession of Puerto Rico from Spain.",
+        "year": 1898,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Boxer Rebellion in Qing dynasty (modern-day China) officially ends with the signing of the Boxer Protocol.",
+        "year": 1901,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Second impeachment trial of Donald Trump begins.",
+        "year": 2021,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Two trains collide south of the Vale of Tempe in Greece, leading to the deaths of at least 57 people and leaving 58 missing and 85 injured.",
+        "year": 2023,
+        "overlaps": false
+      }
+    ]
   }
 ]
