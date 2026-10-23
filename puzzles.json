@@ -790,5 +790,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 13,
+    "date": "2026-10-30",
+    "anchor": {
+      "name": "Hank Bagby",
+      "description": "American jazz musician",
+      "birth": 1922,
+      "death": 1993
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Somalia and Ethiopia sign a truce to end the Ethio-Somali War.",
+        "year": 1978,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The United States annexes the Kingman Reef.",
+        "year": 1922,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Space Shuttle Columbia launches on STS-52 to deploy the LAGEOS-2 satellite and microgravity experiments.",
+        "year": 1992,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Racially motivated Nihon Shōgakkō fire lit by a serial arsonist kills 10 children in Sacramento, California.",
+        "year": 1923,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "After Egypt gains nominal independence from the United Kingdom, Fuad I becomes King of Egypt.",
+        "year": 1922,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Bayerische Motoren Werke AG (BMW) is established as a public company in Germany.",
+        "year": 1918,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.",
+        "year": 1918,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Stockpiles of obsolete ammunition explode at an ex-military ammunition depot in the village of Gërdec, Albania, killing 26 people.",
+        "year": 2008,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "NASA announces that the ALH 84001 meteorite, thought to originate from Mars, contains evidence of primitive life-forms.",
+        "year": 1996,
+        "overlaps": false
+      }
+    ]
   }
 ]
