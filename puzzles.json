@@ -856,5 +856,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 14,
+    "date": "2026-10-31",
+    "anchor": {
+      "name": "Fred Shero",
+      "description": "Canadian former ice hockey player and coach (1925–1990)",
+      "birth": 1925,
+      "death": 1990
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "South African Airways Flight 295 crashes into the Indian Ocean, killing all 159 people on board.",
+        "year": 1987,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The people of the Saar region vote in a referendum to unite with West Germany instead of France.",
+        "year": 1955,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The Central Intelligence Agency releases documents under the Freedom of Information Act revealing it had engaged in mind-control experiments.",
+        "year": 1977,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Holocaust: Fifteen hundred Jews from Pidhaytsi are sent by Nazis to Bełżec extermination camp.",
+        "year": 1941,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The Grand Ole Opry begins broadcasting in Nashville, Tennessee, as the WSM Barn Dance.",
+        "year": 1925,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "World War I: Serbia declares war on Germany; Austria declares war on Russia.",
+        "year": 1914,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Communist Party of Australia is founded in Sydney.",
+        "year": 1920,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The fully restored USS Constitution (a.k.a. Old Ironsides) celebrates its 200th birthday by setting sail for the first time in 116 years.",
+        "year": 1997,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Russian parliament approves the name change of Leningrad back to Saint Petersburg. The change is effective October 1.",
+        "year": 1991,
+        "overlaps": false
+      }
+    ]
   }
 ]
