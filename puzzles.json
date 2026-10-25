@@ -922,5 +922,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 15,
+    "date": "2026-11-01",
+    "anchor": {
+      "name": "Isabel González",
+      "description": "Puerto Rican activist",
+      "birth": 1882,
+      "death": 1971
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Spanish Civil War: An Armed Forces rebellion against the recently elected leftist Popular Front government of Spain starts the civil war.",
+        "year": 1936,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Homestead Strike begins near Pittsburgh, Pennsylvania.",
+        "year": 1892,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The Council of Europe is founded following a speech by Winston Churchill at the University of Zurich.",
+        "year": 1946,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Charles J. Guiteau is hanged in Washington, D.C. for the assassination of U.S. President James Garfield.",
+        "year": 1882,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The first hydropower plant of Finland is commissioned along the Tammerkoski rapids in Tampere, Pirkanmaa.",
+        "year": 1891,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Vega becomes the first star (other than the Sun) to be photographed.",
+        "year": 1850,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus.",
+        "year": 1876,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "SpaceShipOne, piloted by Brian Binnie, makes its first powered and first supersonic flight.",
+        "year": 2003,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Solomon Islands join the United Nations.",
+        "year": 1978,
+        "overlaps": false
+      }
+    ]
   }
 ]
