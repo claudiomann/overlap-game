@@ -988,5 +988,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 16,
+    "date": "2026-11-02",
+    "anchor": {
+      "name": "John George Children",
+      "description": "British scientist (1777–1852)",
+      "birth": 1777,
+      "death": 1852
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Opening of the first German National Assembly (Nationalversammlung) in Frankfurt, Germany.",
+        "year": 1848,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Lewis and Clark Expedition: Scouting ahead of the expedition, Meriwether Lewis and four companions sight the Great Falls of the Missouri River.",
+        "year": 1805,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The American League of Colored Laborers, the first African American labor union in the United States, is established in New York City.",
+        "year": 1850,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Louis-Alexandre Berthier removes Pope Pius VI from power.",
+        "year": 1798,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The Disruption in Edinburgh of the Free Church of Scotland from the Church of Scotland.",
+        "year": 1843,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "The Seven Years' War begins when Great Britain declares war on France.",
+        "year": 1756,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "George Frideric Handel's oratorio Messiah makes its world premiere in Dublin, Ireland.",
+        "year": 1742,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The American adventurer William Walker conquers Nicaragua.",
+        "year": 1855,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The USS Jeannette is crushed in an Arctic Ocean ice pack.",
+        "year": 1881,
+        "overlaps": false
+      }
+    ]
   }
 ]
