@@ -1054,5 +1054,269 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 17,
+    "date": "2026-11-03",
+    "anchor": {
+      "name": "Leo Strauss",
+      "description": "American political philosopher (1899–1973)",
+      "birth": 1899,
+      "death": 1973
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The Treaty on Relations between the USSR and the GDR is signed.",
+        "year": 1955,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Billie Jean King beats Bobby Riggs in the Battle of the Sexes tennis match at the Houston Astrodome.",
+        "year": 1973,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The first Cannes Film Festival is held, having been delayed for seven years due to World War II.",
+        "year": 1946,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "James Meredith, an African American, is temporarily barred from entering the University of Mississippi.",
+        "year": 1962,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The Cunard Liner Queen Elizabeth 2 is launched in Clydebank, Scotland.",
+        "year": 1967,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "U.S. President Chester A. Arthur is sworn in upon the death of James A. Garfield the previous day.",
+        "year": 1881,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Charles Duryea and his brother road-test the first American-made gasoline-powered automobile.",
+        "year": 1893,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Aeroflot Flight 36075 is hijacked at Ufa International Airport.",
+        "year": 1986,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Vietnam is admitted to the United Nations.",
+        "year": 1977,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "date": "2026-11-04",
+    "anchor": {
+      "name": "Obdulio Varela",
+      "description": "Uruguayan footballer (1917–1996)",
+      "birth": 1917,
+      "death": 1996
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people.",
+        "year": 1984,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Cunard Liner Queen Elizabeth 2 is launched in Clydebank, Scotland.",
+        "year": 1967,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Aeroflot Flight 36075 is hijacked at Ufa International Airport.",
+        "year": 1986,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "James Meredith, an African American, is temporarily barred from entering the University of Mississippi.",
+        "year": 1962,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Six days after a referendum, King Christian X of Denmark annuls the declaration of independence of the Faroe Islands.",
+        "year": 1946,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Charles Duryea and his brother road-test the first American-made gasoline-powered automobile.",
+        "year": 1893,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The White Star Line's RMS Olympic collides with the British warship HMS Hawke.",
+        "year": 1911,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Civil unrest in the Maldives breaks out after a prisoner is killed by guards.",
+        "year": 2003,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "In an address to a joint session of Congress and the American people, U.S. President George W. Bush declares a \"war on terror\".",
+        "year": 2001,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "date": "2026-11-05",
+    "anchor": {
+      "name": "Hartini",
+      "description": "Fourth wife of Indonesian president Sukarno",
+      "birth": 1924,
+      "death": 2002
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Margaret Thatcher delivers the Bruges speech, in which she articulates her opposition to further European integration.",
+        "year": 1988,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The first Cannes Film Festival is held, having been delayed for seven years due to World War II.",
+        "year": 1946,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Aeroflot Flight 36075 is hijacked at Ufa International Airport.",
+        "year": 1986,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Vietnam is admitted to the United Nations.",
+        "year": 1977,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "South Ossetia declares its independence from Georgia.",
+        "year": 1990,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Charles Duryea and his brother road-test the first American-made gasoline-powered automobile.",
+        "year": 1893,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The White Star Line's RMS Olympic collides with the British warship HMS Hawke.",
+        "year": 1911,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "A dump truck full of explosives detonates in front of the Marriott hotel in Islamabad, Pakistan, killing 54 people and injuring 266 others.",
+        "year": 2008,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Civil unrest in the Maldives breaks out after a prisoner is killed by guards.",
+        "year": 2003,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "date": "2026-11-06",
+    "anchor": {
+      "name": "Jay Ward",
+      "description": "American animator and television producer (1920–1989)",
+      "birth": 1920,
+      "death": 1989
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Billie Jean King beats Bobby Riggs in the Battle of the Sexes tennis match at the Houston Astrodome.",
+        "year": 1973,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "NFL season: American football players in the National Football League begin a 57-day strike.",
+        "year": 1982,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Vietnam is admitted to the United Nations.",
+        "year": 1977,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Six days after a referendum, King Christian X of Denmark annuls the declaration of independence of the Faroe Islands.",
+        "year": 1946,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Margaret Thatcher delivers the Bruges speech, in which she articulates her opposition to further European integration.",
+        "year": 1988,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Charles Duryea and his brother road-test the first American-made gasoline-powered automobile.",
+        "year": 1893,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The White Star Line's RMS Olympic collides with the British warship HMS Hawke.",
+        "year": 1911,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "A dump truck full of explosives detonates in front of the Marriott hotel in Islamabad, Pakistan, killing 54 people and injuring 266 others.",
+        "year": 2008,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "At least 161 people die after a ferry capsizes close to the pier on Ukara Island in Lake Victoria, Tanzania.",
+        "year": 2018,
+        "overlaps": false
+      }
+    ]
   }
 ]
