@@ -1318,5 +1318,401 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 21,
+    "date": "2026-11-07",
+    "anchor": {
+      "name": "Philip G. Hodge",
+      "description": "American engineer",
+      "birth": 1920,
+      "death": 2014
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "In Munich, police and government troops crush the Nazi Beer Hall Putsch.",
+        "year": 1923,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Blackwater 61 crash: A CASA C-212 Aviocar crashes into the Koh-i-Baba mountain range in Afghanistan, killing six.",
+        "year": 2004,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The Holocaust: The SS-Einsatzgruppen round up roughly 25,000 Jews from the Riga Ghetto and kill them in the Rumbula massacre.",
+        "year": 1941,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Paul Hindemith's Cardillac premieres at the Staatsoper in Dresden, conducted by Fritz Busch.",
+        "year": 1926,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Cold War: Start of the Berlin Blockade: The Soviet Union makes overland travel between West Germany and West Berlin impossible.",
+        "year": 1948,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "The Province of Alberta, Canada, holds its first general election.",
+        "year": 1905,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Balfour Declaration is published in The Times newspaper.",
+        "year": 1917,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "COVID-19 pandemic: The World Health Organization identifies the SARS-CoV-2 Omicron variant.",
+        "year": 2021,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Syrian rebel groups led by Hay'at Tahrir al-Sham launch a ground offensive into Syria.",
+        "year": 2024,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "date": "2026-11-08",
+    "anchor": {
+      "name": "Murray Bookchin",
+      "description": "American social theorist (1921–2006)",
+      "birth": 1921,
+      "death": 2006
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "In Texas, Charles Brooks Jr., becomes the first person to be executed by lethal injection in the United States.",
+        "year": 1982,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Kristallnacht occurs, instigated by the Nazis using the killing of German diplomat Ernst vom Rath by Herschel Grynszpan as justification.",
+        "year": 1938,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "German-born Swiss physicist Albert Einstein is granted an American visa.",
+        "year": 1932,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "The National Traffic and Motor Vehicle Safety Act is signed into law by U.S. President Lyndon B. Johnson.",
+        "year": 1966,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "In Munich, police and government troops crush the Nazi Beer Hall Putsch.",
+        "year": 1923,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Mary Pickford becomes the first female film star to sign a million-dollar contract.",
+        "year": 1916,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Cullinan Diamond is presented to King Edward VII on his birthday.",
+        "year": 1907,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "U.S. surgeons at NYU Langone Health announce the world's first whole eye transplant.",
+        "year": 2023,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Wagner Group led by Yevgeny Prigozhin launches an insurrection against the Russian government.",
+        "year": 2023,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "date": "2026-11-09",
+    "anchor": {
+      "name": "Samuel Johnson (Nigerian historian)",
+      "description": "Nigerian historian (1846–1901)",
+      "birth": 1846,
+      "death": 1901
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "A major earthquake strikes Zagreb and destroys many buildings, including Zagreb Cathedral.",
+        "year": 1880,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Amalthea becomes the last moon to be discovered without the use of photography.",
+        "year": 1892,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The United States receives rights to Pearl Harbor, Hawaii.",
+        "year": 1887,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "An earthquake as high as magnitude 8.8 rocks the Banda Sea, triggering a tsunami and killing at least 60 in the Dutch East Indies.",
+        "year": 1852,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Mapuche rebels attack the fortified Chilean settlement of Temuco.",
+        "year": 1881,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Napoleonic Wars: Napoleon's Grande Armée crosses the Neman river beginning the invasion of Russia.",
+        "year": 1812,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Battle of Berezina begins during Napoleon's retreat from Russia.",
+        "year": 1812,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Spain declares a protectorate over the north shore of Morocco.",
+        "year": 1912,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Mary Pickford becomes the first female film star to sign a million-dollar contract.",
+        "year": 1916,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "date": "2026-11-10",
+    "anchor": {
+      "name": "Charles Dvorak",
+      "description": "American track and field athlete",
+      "birth": 1878,
+      "death": 1969
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "World War II: A Japanese floatplane drops incendiary bombs on Oregon.",
+        "year": 1942,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The American Professional Football Association is renamed the National Football League.",
+        "year": 1922,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Mary Pickford becomes the first female film star to sign a million-dollar contract.",
+        "year": 1916,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "German-born Swiss physicist Albert Einstein is granted an American visa.",
+        "year": 1932,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "In Roth v. United States, the U.S. Supreme Court rules that obscenity is not protected by the First Amendment.",
+        "year": 1957,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Battle of Solferino (Battle of the Three Sovereigns): Sardinia and France defeat Austria in Solferino, northern Italy.",
+        "year": 1859,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Austro-Prussian War:  In the Battle of Custoza an Austrian army defeats the Italian army.",
+        "year": 1866,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The four-day Attica Prison riot begins, eventually resulting in 39 dead, most killed by state troopers retaking the prison.",
+        "year": 1971,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "A McDonnell Douglas MD-82, operating as Lion Air Flight 538, overran the runway at Adisoemarmo Airport and crashed, killing 25 people.",
+        "year": 2004,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "date": "2026-11-11",
+    "anchor": {
+      "name": "Ram Sharan Sharma",
+      "description": "Indian historian and Indologist (1919–2011)",
+      "birth": 1919,
+      "death": 2011
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Venezuelan President Rómulo Betancourt is injured in an assassination attempt.",
+        "year": 1960,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The National Traffic and Motor Vehicle Safety Act is signed into law by U.S. President Lyndon B. Johnson.",
+        "year": 1966,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "In Munich, police and government troops crush the Nazi Beer Hall Putsch.",
+        "year": 1923,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "In Roth v. United States, the U.S. Supreme Court rules that obscenity is not protected by the First Amendment.",
+        "year": 1957,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "In Texas, Charles Brooks Jr., becomes the first person to be executed by lethal injection in the United States.",
+        "year": 1982,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "First airmail service in Canada from Montreal to Toronto.",
+        "year": 1918,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Spain declares a protectorate over the north shore of Morocco.",
+        "year": 1912,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The generative AI chatbot ChatGPT is launched by OpenAI.",
+        "year": 2022,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Wang Fuk Court fire, a catastrophic fire in Tai Po, Hong Kong, leaves at least 168 dead and 79 injured.",
+        "year": 2025,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "date": "2026-11-12",
+    "anchor": {
+      "name": "Firpo Marberry",
+      "description": "American baseball player (1898–1976)",
+      "birth": 1898,
+      "death": 1976
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The Montenegrin Podgorica Assembly votes for a \"union of the people\", declaring assimilation into the Kingdom of Serbia.",
+        "year": 1918,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Venezuelan President Rómulo Betancourt is injured in an assassination attempt.",
+        "year": 1960,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The American Professional Football Association is renamed the National Football League.",
+        "year": 1922,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "In Roth v. United States, the U.S. Supreme Court rules that obscenity is not protected by the First Amendment.",
+        "year": 1957,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "World War II: A Japanese floatplane drops incendiary bombs on Oregon.",
+        "year": 1942,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Austro-Prussian War:  In the Battle of Custoza an Austrian army defeats the Italian army.",
+        "year": 1866,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The United States receives rights to Pearl Harbor, Hawaii.",
+        "year": 1887,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "In San Francisco, city mayor George Moscone and openly gay city supervisor Harvey Milk are assassinated by former supervisor Dan White.",
+        "year": 1978,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "In Texas, Charles Brooks Jr., becomes the first person to be executed by lethal injection in the United States.",
+        "year": 1982,
+        "overlaps": false
+      }
+    ]
   }
 ]
