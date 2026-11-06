@@ -1714,5 +1714,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 27,
+    "date": "2026-11-13",
+    "anchor": {
+      "name": "Hermann Kolbe",
+      "description": "German chemist (1818–1884)",
+      "birth": 1818,
+      "death": 1884
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The Benevolent and Protective Order of Elks is organized.",
+        "year": 1876,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Texas Revolution: On the orders of General Antonio López de Santa Anna, the Mexican Army massacres 342 Texian Army POWs at Goliad, Texas.",
+        "year": 1836,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The Army of the Three Guarantees triumphantly enters Mexico City, led by Agustín de Iturbide. The following day Mexico is declared independent.",
+        "year": 1821,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "The first international rugby football match, when Scotland defeats England in Edinburgh at Raeburn Place.",
+        "year": 1871,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Funeral of Prince Alexander John of Wales at St Mary Magdalene Church, Sandringham.",
+        "year": 1871,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "The Treaty of St. Louis between the United States and the united Ottawa, Ojibwa, and Potawatomi Indian tribes is proclaimed.",
+        "year": 1816,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The French army under André Masséna fails to break British forces under the Arthur Wellesley in the battle of Bussaco.",
+        "year": 1810,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The Wright brothers make their first attempt to fly with the Wright Flyer at Kitty Hawk, North Carolina.",
+        "year": 1903,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Discovery Expedition under Robert Falcon Scott attains a Farthest South at 82°17′S in Antarctica.",
+        "year": 1902,
+        "overlaps": false
+      }
+    ]
   }
 ]
