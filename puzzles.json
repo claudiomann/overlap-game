@@ -1780,5 +1780,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 28,
+    "date": "2026-11-14",
+    "anchor": {
+      "name": "William Stewart Halsted",
+      "description": "American surgeon (1852–1922)",
+      "birth": 1852,
+      "death": 1922
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "World War I: The Ottoman Empire signs the Armistice of Mudros with the Allies.",
+        "year": 1918,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Communist Party of Australia is founded in Sydney.",
+        "year": 1920,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "World War I: British forces capture Haifa, Acre, and Es Salt from the Ottoman Empire.",
+        "year": 1918,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Mary Pickford becomes the first female film star to sign a million-dollar contract.",
+        "year": 1916,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Norway and Sweden sign the Karlstad Treaty, peacefully dissolving the Union between the two countries.",
+        "year": 1905,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Astronomers Urbain Le Verrier, John Couch Adams and Johann Gottfried Galle collaborate on the discovery of Neptune.",
+        "year": 1846,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Nat Turner is arrested for leading the bloodiest slave rebellion in United States history.",
+        "year": 1831,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Cold War: Start of the Berlin Blockade: The Soviet Union makes overland travel between West Germany and West Berlin impossible.",
+        "year": 1948,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Apartheid: In South Africa, the Group Areas Act is passed, formally segregating races.",
+        "year": 1950,
+        "overlaps": false
+      }
+    ]
   }
 ]
