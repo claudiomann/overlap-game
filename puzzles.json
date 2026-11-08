@@ -1846,5 +1846,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 29,
+    "date": "2026-11-15",
+    "anchor": {
+      "name": "Elena Garro",
+      "description": "Mexican writer (1916-1998)",
+      "birth": 1916,
+      "death": 1998
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The Concert for Bangladesh, organized by former Beatle George Harrison, is held at Madison Square Garden in New York City.",
+        "year": 1971,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Comprehensive Environmental Response, Compensation, and Liability Act (also known as Superfund) is enacted by the U.S. Congress.",
+        "year": 1980,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.",
+        "year": 1944,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Apollo 17 becomes the sixth and final Apollo mission to land on the Moon.",
+        "year": 1972,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Roman Catholic papal encyclical Quas primas introduces the Feast of Christ the King.",
+        "year": 1925,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Harriet Quimby takes her pilot's test and becomes the first U.S. woman to earn an Aero Club of America aviator's certificate.",
+        "year": 1911,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "World War I: French pilot Roland Garros is shot down and glides to a landing on the German side of the lines.",
+        "year": 1915,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The Buncefield Oil Depot catches fire in Hemel Hempstead, England.",
+        "year": 2005,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Beijing–Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.",
+        "year": 2008,
+        "overlaps": false
+      }
+    ]
   }
 ]
