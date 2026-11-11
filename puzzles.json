@@ -2044,5 +2044,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 32,
+    "date": "2026-11-18",
+    "anchor": {
+      "name": "Dr. Rajkumar",
+      "description": "Indian actor and singer (1929–2006)",
+      "birth": 1929,
+      "death": 2006
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The Beatles play to nearly 60,000 fans at Shea Stadium in New York City, an event later regarded as the birth of stadium rock.",
+        "year": 1965,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Vietnam War: Easter Offensive: American forces begin sustained air strikes and naval bombardments.",
+        "year": 1972,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Vietnam War: The US Air Force bombing of Cambodia ends.",
+        "year": 1973,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Suez Crisis: The Suez Canal is reopened following the introduction of UNEF peacekeepers to the region.",
+        "year": 1957,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The Beatles release their 12th and final studio album Let It Be.",
+        "year": 1970,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "King Gustaf V of Sweden accedes to the Swedish throne.",
+        "year": 1907,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Franck–Hertz experiment, a pillar of quantum mechanics, is presented to the German Physical Society.",
+        "year": 1914,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Convention on Cluster Munitions is adopted.",
+        "year": 2008,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "At least 310 people are killed in avalanches in northeastern Afghanistan.",
+        "year": 2015,
+        "overlaps": false
+      }
+    ]
   }
 ]
