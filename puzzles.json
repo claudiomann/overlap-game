@@ -2110,5 +2110,137 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 33,
+    "date": "2026-11-19",
+    "anchor": {
+      "name": "Adolf Eichmann",
+      "description": "German SS officer and war criminal (1906–1962)",
+      "birth": 1906,
+      "death": 1962
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The Sydney Harbour Bridge is opened.",
+        "year": 1932,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Illinois Monument is dedicated at Cheatham Hill in what is now the Kennesaw Mountain National Battlefield Park.",
+        "year": 1914,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "World War II: German troops capture the city of Białystok during Operation Barbarossa.",
+        "year": 1941,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Hurricane Audrey makes landfall near the Texas–Louisiana border, killing over 400 people, mainly in and around Cameron, Louisiana.",
+        "year": 1957,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "In East Liverpool, Ohio, FBI agents shoot and kill the notorious bank robber Pretty Boy Floyd.",
+        "year": 1934,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "During the Russo-Japanese War, sailors start a mutiny aboard the Russian battleship Potemkin.",
+        "year": 1905,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The International Meridian Conference designates the Royal Observatory, Greenwich as the world's prime meridian.",
+        "year": 1884,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Jean-Paul Sartre is awarded the Nobel Prize in Literature, though he does not accept the prize.",
+        "year": 1964,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Falklands War: Argentinian forces land on South Georgia Island, precipitating war with the United Kingdom.",
+        "year": 1982,
+        "overlaps": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "date": "2026-11-20",
+    "anchor": {
+      "name": "Earl Warren",
+      "description": "Chief justice of the United States from 1953 to 1969",
+      "birth": 1891,
+      "death": 1974
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "In East Liverpool, Ohio, FBI agents shoot and kill the notorious bank robber Pretty Boy Floyd.",
+        "year": 1934,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Algerian War of Independence ends.",
+        "year": 1962,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "A BAC One-Eleven prototype airliner crashes in UK with the loss of all on board.",
+        "year": 1963,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "French Guiana, Guadeloupe, Martinique, and Réunion become overseas départements of France.",
+        "year": 1946,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "World War II: German troops capture the city of Białystok during Operation Barbarossa.",
+        "year": 1941,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "A plebiscite ratifies the annexation of Veneto and Mantua to Italy, which had occurred three days before on October 19.",
+        "year": 1866,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Blantyre mining disaster in Scotland kills 207 miners.",
+        "year": 1877,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Maurice Papon, an official in the Vichy government during World War II, is jailed for crimes against humanity.",
+        "year": 1999,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Two days after it had declared independence, Slovenia is invaded by Yugoslav troops, tanks, and aircraft, starting the Ten-Day War.",
+        "year": 1991,
+        "overlaps": false
+      }
+    ]
   }
 ]
