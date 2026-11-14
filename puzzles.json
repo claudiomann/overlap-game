@@ -2242,5 +2242,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 35,
+    "date": "2026-11-21",
+    "anchor": {
+      "name": "Helen Frankenthaler",
+      "description": "American painter (1928–2011)",
+      "birth": 1928,
+      "death": 2011
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The Holocaust: Adolf Hitler declares the imminent extermination of the Jews at a meeting in the Reich Chancellery.",
+        "year": 1941,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The beginning of Xi'an incident. As a result, Chiang Kai Shek is captured.",
+        "year": 1936,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "HMS Duchess sinks after a collision with HMS Barham off the coast of Scotland with the loss of 124 men.",
+        "year": 1939,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "The People's Republic of Korea is outlawed in the South, by order of the United States Army Military Government in Korea.",
+        "year": 1945,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Second Sino-Japanese War: USS Panay incident: Japanese aircraft bomb and sink U.S. gunboat USS Panay on the Yangtze river in China.",
+        "year": 1937,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Guglielmo Marconi receives the first transatlantic radio signal (the letter \"S\" [•••] in Morse Code), at Signal Hill in St John's, Newfoundland.",
+        "year": 1901,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Father Edward J. Flanagan founds Boys Town as a farm village for wayward boys.",
+        "year": 1917,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "North Korea successfully launches its first satellite, Kwangmyŏngsŏng-3 Unit 2.",
+        "year": 2012,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Paris Agreement relating to United Nations Framework Convention on Climate Change is adopted.",
+        "year": 2015,
+        "overlaps": false
+      }
+    ]
   }
 ]
