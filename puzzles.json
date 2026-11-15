@@ -2308,5 +2308,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 36,
+    "date": "2026-11-22",
+    "anchor": {
+      "name": "José Joaquín Fernández de Lizardi",
+      "description": "Mexican writer and political journalist (1776–1827",
+      "birth": 1776,
+      "death": 1827
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "American Revolutionary War: Nathan Hale volunteers to spy for the Continental Army.",
+        "year": 1776,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "American Revolutionary War: After 16 months of debate the Continental Congress approves the Articles of Confederation.",
+        "year": 1777,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Napoleon first rises to prominence by suppressing counter-revolutionary rioters threatening the National Convention.",
+        "year": 1795,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Empress Catherine II of Russia grants Jews permission to settle in Kyiv.",
+        "year": 1794,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Mexico adopts a new constitution and becomes a federal republic.",
+        "year": 1824,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "The Olive Branch Petition is signed by the Continental Congress of the Thirteen Colonies of North America.",
+        "year": 1775,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Battle of Plassey: Three thousand British troops under Robert Clive defeat a 50,000-strong Indian army under Siraj ud-Daulah at Plassey.",
+        "year": 1757,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Joseph Jenkins Roberts is sworn in as the first president of Liberia.",
+        "year": 1848,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Crimean War begins when the Ottoman Empire declares war on the Russian Empire.",
+        "year": 1853,
+        "overlaps": false
+      }
+    ]
   }
 ]
