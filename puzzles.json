@@ -2374,5 +2374,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 37,
+    "date": "2026-11-23",
+    "anchor": {
+      "name": "David Gill (astronomer)",
+      "description": "Scottish astronomer (1843–1914)",
+      "birth": 1843,
+      "death": 1914
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "U.S. Marines land in Honolulu, Hawaii from the USS Boston to prevent the queen from abrogating the Bayonet Constitution.",
+        "year": 1893,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Émile Zola's J'accuse…! exposes the Dreyfus affair.",
+        "year": 1898,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The United Mine Workers of America is founded in Columbus, Ohio.",
+        "year": 1890,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "An earthquake strikes the Virgin Islands, triggering the largest tsunami witnessed in the Caribbean and killing dozens.",
+        "year": 1867,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Anglo-Zulu War:  the Battle of Rorke's Drift, just some 15 km (9.3 mi) away from Isandlwana, results in a British victory.",
+        "year": 1879,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Napoleonic Wars:  In a naval action, French frigates defeat British East Indiamen in the Bay of Bengal.",
+        "year": 1809,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The first two in a series of four severe earthquakes occur in the vicinity of New Madrid, Missouri.",
+        "year": 1811,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Latvia declares its independence from Russia.",
+        "year": 1918,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "World War II: Australian and American forces defeat Japanese army and navy units in the bitterly fought Battle of Buna–Gona.",
+        "year": 1943,
+        "overlaps": false
+      }
+    ]
   }
 ]
