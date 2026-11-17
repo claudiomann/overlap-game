@@ -2440,5 +2440,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 38,
+    "date": "2026-11-24",
+    "anchor": {
+      "name": "Lindsay Hassett",
+      "description": "Australian cricketer (1913–1993)",
+      "birth": 1913,
+      "death": 1993
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Colombia becomes a signatory to the Buenos Aires copyright treaty.",
+        "year": 1936,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "The Continental League is announced as baseball's \"third major league\" in the United States.",
+        "year": 1959,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The Lincoln Memorial is dedicated in Washington, D.C.",
+        "year": 1922,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "History of Slovenia: In a referendum, 88.5% of Slovenia's overall electorate vote for independence from Yugoslavia.",
+        "year": 1990,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "NASA announces the cancellation of two Apollo missions to the Moon, Apollo 15 (the designation is re-used by a later mission), and Apollo 19.",
+        "year": 1970,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Datu Muhammad Salleh is killed in Kampung Teboh, Tambunan, ending the Mat Salleh Rebellion.",
+        "year": 1900,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Vincent van Gogh shoots himself and dies two days later.",
+        "year": 1890,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Convention on Cluster Munitions is adopted.",
+        "year": 2008,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Swissair Flight 111 crashes near Peggy's Cove, Nova Scotia; all 229 people on board are killed.",
+        "year": 1998,
+        "overlaps": false
+      }
+    ]
   }
 ]
