@@ -2506,5 +2506,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 39,
+    "date": "2026-11-25",
+    "anchor": {
+      "name": "Robert Laurent",
+      "description": "American sculptor",
+      "birth": 1890,
+      "death": 1970
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Finnish Civil War: Battle of Länkipohja is infamous for its bloody aftermath as the Whites execute 70–100 capitulated Reds.",
+        "year": 1918,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Charles Lindbergh testifies before the U.S. Congress and recommends that the United States negotiate a neutrality pact with Adolf Hitler.",
+        "year": 1941,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "The first successful treatment with insulin is given to 14-year-old diabetic Leonard Thompson.",
+        "year": 1922,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "A reactor at the Enrico Fermi Nuclear Generating Station near Detroit suffers a partial meltdown.",
+        "year": 1966,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Anne Miller becomes the first American patient to be treated with penicillin, under the care of Orvan Hess and John Bumstead.",
+        "year": 1942,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "France annexes Tahiti, renaming the independent Kingdom of Tahiti as \"Etablissements de français de l'Océanie\".",
+        "year": 1880,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Mikado, a light opera by W. S. Gilbert and Arthur Sullivan, receives its first public performance at the Savoy Theatre in London.",
+        "year": 1885,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "One hundred forty-six people are killed when Dan-Air Flight 1008 crashes near Los Rodeos Airport in Tenerife, Canary Islands.",
+        "year": 1980,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Bombs planted by the PIRA in pubs in Guildford kill four British soldiers and one civilian.",
+        "year": 1974,
+        "overlaps": false
+      }
+    ]
   }
 ]
