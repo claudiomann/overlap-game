@@ -2572,5 +2572,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 40,
+    "date": "2026-11-26",
+    "anchor": {
+      "name": "Bozorg Alavi",
+      "description": "Writer, novelist and activist (1904–1997)",
+      "birth": 1904,
+      "death": 1997
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Douglas DC-3: The twin-engine airliner makes its maiden flight from Santa Monica.",
+        "year": 1935,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Purge of Croatian Spring leaders starts in Yugoslavia at the meeting of the League of Communists at the Karađorđevo estate.",
+        "year": 1971,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Cold War: Winston Churchill delivers his famous \"Iron Curtain\" speech at Westminster College, Missouri.",
+        "year": 1946,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Provisional IRA members detonate a car bomb at Harrods Department Store in London. Three police officers and three civilians are killed.",
+        "year": 1983,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The Troubles: A Provisional IRA bomb prematurely detonates in Belfast, killing the bomber and nine civilians.",
+        "year": 1993,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "The sentences of the trial of the warlocks of Chiloé are imparted.",
+        "year": 1881,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Seven Brothers (Seitsemän veljestä), a novel by Finnish author Aleksis Kivi, is published first time in several thin booklets.",
+        "year": 1870,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Iraq War: Operation Red Dawn: Former Iraqi President Saddam Hussein is captured near his home town of Tikrit.",
+        "year": 2003,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The United Russia political party was founded.",
+        "year": 2001,
+        "overlaps": false
+      }
+    ]
   }
 ]
