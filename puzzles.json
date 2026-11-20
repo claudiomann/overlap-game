@@ -2638,5 +2638,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 41,
+    "date": "2026-11-27",
+    "anchor": {
+      "name": "Karl Olivecrona",
+      "description": "Swedish lawyer and legal philosopher",
+      "birth": 1897,
+      "death": 1980
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "American physicist Theodore Maiman is given a patent for his ruby laser systems, the world's first laser.",
+        "year": 1967,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Myra Hindley and Ian Brady are sentenced to life imprisonment for the Moors murders in England.",
+        "year": 1966,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Vietnam War: At a rally in Saigon, South Vietnamese Prime Minister Nguyễn Khánh calls for expanding the war into North Vietnam.",
+        "year": 1964,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Vietnam War: The Battle of Ia Drang begins. This is the first major engagement between regular American and North Vietnamese forces.",
+        "year": 1965,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The Russell–Einstein Manifesto calls for a reduction of the risk of nuclear warfare.",
+        "year": 1955,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "U.S. politician Andrew Johnson makes his drunk vice-presidential inaugural address in Washington, D.C.",
+        "year": 1865,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "American Civil War: The Confederate government is declared dissolved at Washington, Georgia.",
+        "year": 1865,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game.",
+        "year": 1990,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "Three women, kidnapped and missing for more than a decade, are found alive in Cleveland, Ohio, in the United States.",
+        "year": 2013,
+        "overlaps": false
+      }
+    ]
   }
 ]
