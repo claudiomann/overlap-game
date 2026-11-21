@@ -2704,5 +2704,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 42,
+    "date": "2026-11-28",
+    "anchor": {
+      "name": "Jack Churchill",
+      "description": "British Army officer (1906–1996)",
+      "birth": 1906,
+      "death": 1996
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The Franck–Hertz experiment, a pillar of quantum mechanics, is presented to the German Physical Society.",
+        "year": 1914,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "A Bolshevik coup fails in the Democratic Republic of Georgia.",
+        "year": 1920,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "Eight U.S. servicemen die in Operation Eagle Claw as they attempt to end the Iran hostage crisis.",
+        "year": 1980,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Suez Crisis: The Suez Canal is reopened following the introduction of UNEF peacekeepers to the region.",
+        "year": 1957,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.",
+        "year": 1982,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Russo-Turkish War: The Russian Empire declares war on the Ottoman Empire.",
+        "year": 1877,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York.",
+        "year": 1900,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "The death of Mahsa Amini occurred in Tehran, Iran, sparking worldwide protests.",
+        "year": 2022,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The Georgia Guidestones, a monument in the United States, are heavily damaged in a bombing, and are dismantled later the same day.",
+        "year": 2022,
+        "overlaps": false
+      }
+    ]
   }
 ]
