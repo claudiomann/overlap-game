@@ -2770,5 +2770,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 43,
+    "date": "2026-11-29",
+    "anchor": {
+      "name": "Hans Hofmann",
+      "description": "German-American painter (1880–1966)",
+      "birth": 1880,
+      "death": 1966
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "The United States Air Force accepts its first female recruits into a program called the Women's Air Force (WAF).",
+        "year": 1948,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Cold War: The Gaither Report calls for more American missiles and fallout shelters.",
+        "year": 1957,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "King Gustaf V of Sweden accedes to the Swedish throne.",
+        "year": 1907,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Leaders of the German Empire hold an Imperial War Council to discuss the possibility that war might break out.",
+        "year": 1912,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "The Holocaust: Adolf Hitler declares the imminent extermination of the Jews at a meeting in the Reich Chancellery.",
+        "year": 1941,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Bakumatsu: Kinmon incident: The Chōshū Domain attempts to expel the Satsuma and Aizu Domains from Japan's imperial court.",
+        "year": 1864,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "Patrick Francis Healy becomes the first African-American inaugurated as president of a predominantly white university, Georgetown University.",
+        "year": 1874,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "Space Shuttle Columbia is launched on an international science mission.",
+        "year": 1994,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "In Tunisia, president Habib Bourguiba is overthrown and replaced by Prime Minister Zine El Abidine Ben Ali.",
+        "year": 1987,
+        "overlaps": false
+      }
+    ]
   }
 ]
