@@ -2902,5 +2902,71 @@
         "overlaps": false
       }
     ]
+  },
+  {
+    "id": 45,
+    "date": "2026-12-01",
+    "anchor": {
+      "name": "Sophie Germain",
+      "description": "French mathematician, physicist, and philosopher (1776–1831)",
+      "birth": 1776,
+      "death": 1831
+    },
+    "cards": [
+      {
+        "id": "c1",
+        "text": "Captain George Vancouver claims Puget Sound for the Kingdom of Great Britain.",
+        "year": 1792,
+        "overlaps": true
+      },
+      {
+        "id": "c2",
+        "text": "Accordion patent granted to Cyrill Demian in Vienna, Austrian Empire.",
+        "year": 1829,
+        "overlaps": true
+      },
+      {
+        "id": "c3",
+        "text": "King Charles Emmanuel IV of Sardinia abdicates his throne in favor of his brother, Victor Emmanuel.",
+        "year": 1802,
+        "overlaps": true
+      },
+      {
+        "id": "c4",
+        "text": "Highwayman Nicolas J. Pelletier becomes the first person executed by guillotine.",
+        "year": 1792,
+        "overlaps": true
+      },
+      {
+        "id": "c5",
+        "text": "\"La Marseillaise\" (the French national anthem) is composed by Claude Joseph Rouget de Lisle.",
+        "year": 1792,
+        "overlaps": true
+      },
+      {
+        "id": "c6",
+        "text": "Great Upheaval: New England planters arrive to claim land in Nova Scotia, Canada, taken from the Acadians.",
+        "year": 1760,
+        "overlaps": false
+      },
+      {
+        "id": "c7",
+        "text": "The Mission San Luis Obispo de Tolosa is founded in San Luis Obispo, California.",
+        "year": 1772,
+        "overlaps": false
+      },
+      {
+        "id": "c8",
+        "text": "British and French engineers break ground for the Suez Canal.",
+        "year": 1859,
+        "overlaps": false
+      },
+      {
+        "id": "c9",
+        "text": "The French government announces that Louis Daguerre's photographic process is a gift \"free to the world\".",
+        "year": 1839,
+        "overlaps": false
+      }
+    ]
   }
 ]
